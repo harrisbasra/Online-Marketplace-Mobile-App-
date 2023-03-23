@@ -1,10 +1,11 @@
-# Online-Marketplace-Mobile-App-
-An Online Marketplace where people can rent things online with an intergrated Messanger in it which can do video call, voice call, and capture-to-send things as well in addition to the chatting. You can add offers to the already live products and this will notify the interested users by push notifications.
+# Sample Snack app
 
-# Development
-This is developed by using React Native Development (Java Script) with firebase connected to store data. 
-It is the design copy of following figma file (https://www.figma.com/file/WXrVVwe8AVLKO50dYlgsFb/Renting-App---NASCON?node-id=0%3A1&amp;t=Z43LOL7YCfh0TOkr-1)
-(Figma file is not owned by me and still remains a property of NasCon)
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-# Coding
-The Design is converted into code by using the Figma Extension "Locofy". And then code is written against it.
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
